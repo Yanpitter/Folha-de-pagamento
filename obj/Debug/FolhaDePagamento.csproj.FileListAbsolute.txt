@@ -1,0 +1,97 @@
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+D:\Users\1034820\Desktop\Projeto\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+C:\Users\1031936\Documents\Folha_Senac\Folha_Senac\FolhaDePagamento 1\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\Folha_senac_09_05\FolhaDePagamentos\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+D:\Users\1031936\Downloads\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+D:\Users\1031936\Downloads\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+D:\Users\1031936\Downloads\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+D:\Users\1031936\Downloads\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\SenacFolhaFinal\FolhaDePagamentoItalo\FolhaDePagamento\obj\Debug\FolhaDePagamento.FormResumo.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.Form1.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.FormResumo.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\FolhaDePagamento\obj\Debug\FolhaDeP.E5510475.Up2Date
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\bin\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\bin\Debug\FolhaDePagamento.pdb
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.Form1.resources
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.FormResumo.resources
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDeP.E5510475.Up2Date
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.exe
+C:\Users\bread\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.pdb
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\bin\Debug\FolhaDePagamento.exe.config
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\bin\Debug\FolhaDePagamento.exe
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\bin\Debug\FolhaDePagamento.pdb
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.csproj.AssemblyReference.cache
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.Form1.resources
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.FormResumo.resources
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.Properties.Resources.resources
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.csproj.GenerateResource.cache
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.csproj.CoreCompileInputs.cache
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDeP.E5510475.Up2Date
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.exe
+D:\Users\1003510.SENAC_EDUC\Downloads\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\FolhaDePagamento13_05_2025\obj\Debug\FolhaDePagamento.pdb
