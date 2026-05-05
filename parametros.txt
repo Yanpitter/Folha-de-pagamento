@@ -1,0 +1,1 @@
+private readonly string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "parametros.txt");
